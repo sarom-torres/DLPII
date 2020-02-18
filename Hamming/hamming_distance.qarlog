@@ -1,0 +1,16 @@
+Quartus II Archive log --	/home/aluno/DLPII/Hamming/hamming_distance.qarlog
+
+Archive:	/home/aluno/DLPII/Hamming/hamming_distance.qar
+Date:		Tue Feb 18 09:17:06 2020
+Quartus II 32-bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+
+	=========== Files Selected: ===========
+/home/aluno/DLPII/Hamming/hamming_distance.qpf
+/home/aluno/DLPII/Hamming/hamming_distance.qsf
+/home/aluno/DLPII/Hamming/hamming_distance.vhd
+/home/aluno/DLPII/Hamming/incremental_db/compiled_partitions/hamming_distance.db_info
+/opt/altera/13.0sp1/quartus/linux/assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
